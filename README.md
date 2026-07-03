@@ -12,7 +12,7 @@ A production-ready online learning platform inspired by Udemy and Coursera, buil
 |---|---|
 | ![Home](screenshots/01_home.png) | ![Courses](screenshots/02_courses.png) |
 | **Home Page** | **Browse Courses** |
-| ![Login](screenshots/03_login.png) | ![Student Dashboard](screenshots/04_student_dashboard.png) |
+| ![Login](screenshots/login_page.png) | ![Student Dashboard](screenshots/04_student_dashboard.png) |
 | **Login Page** | **Student Dashboard** |
 | ![My Courses](screenshots/05_my_courses.png) | ![Course Detail](screenshots/06_course_detail.png) |
 | **My Courses** | **Course Detail** |
